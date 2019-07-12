@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7bfc170c-ae3b-4423-b48a-f94e7bfca85b
+C:\Users\LASER_2\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|6093fd89-7f18-46c8-8a22-ed9073148370
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0a808f15-af0e-458c-9d38-c188b964e23d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|52fadf27-804b-4c3b-8eac-459f78408024
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|87711331-ea90-4657-9dbd-b425899fe40e
+C:\Users\LASER_2\Documents\PSoC Creator\CANBAS\LCD GRAFICA.cydsn\LCD GRAFICA.cyprj|f144db5c-c9b4-413d-95ec-74a2a9427f21
